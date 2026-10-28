@@ -1,3 +1,0 @@
-# Gamma
-
-initial line one
