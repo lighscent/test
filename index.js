@@ -9,3 +9,5 @@ console.log('test 2 short');
 console.log('test 2 long');
 
 console.log('test 2 very long');
+
+console.log('test 3 short');
