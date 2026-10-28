@@ -1,0 +1,6 @@
+# f06
+
+line one of f06
+line two of f06
+
+appended in commit 12
