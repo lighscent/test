@@ -7,3 +7,4 @@ Slate oauth 2026-10-30 18:32:04 : Google/Microsoft OAuth2+PKCE verifies (501 san
 Slate landing 2026-10-30 18:52:16 : page entreprise verifiee 200 (nav, hero+mockup, fonctionnalites, sync, securite, tarifs, faq, footer), zero emoji
 Slate iphone 2026-10-30 18:53:37 : maquettes iPhone CSS (hero + galerie 3 ecrans) verifiees 200, zero emoji
 Slate legal 2026-10-30 18:55:05 : 4 pages 200 (mentions/cgu/cgv/confidentialite), footer links, zero emoji, champs identite a completer
+Slate png 2026-10-30 18:56:46 : icones PNG generees (192/512/180/maskable, signature+contenu verifies), manifest + apple-touch-icon branches, servies 200 image/png
