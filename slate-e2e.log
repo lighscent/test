@@ -3,3 +3,4 @@ Slate e2e 2026-10-30 18:15:53 : 16/16 PASS (guest redirects, auth, calendar mont
 Slate e2e 2026-10-30 18:19:14 : 18/18 PASS via subagent (landing FR, oauth disabled, auth, calendar, PWA, logout)
 Slate e2e 2026-10-30 18:26:49 : isolation PASS (B ne voit pas todo A, toggle/delete cross-user 404 sur vrai id)
 Slate verify 2026-10-30 18:27:56 : 10/10 PASS (no emoji, FA 200, no-JS 302 fallback, stubs FR, PWA assets)
+Slate oauth 2026-10-30 18:32:04 : Google/Microsoft OAuth2+PKCE verifies (501 sans env, 302 authorize PKCE, callback bad-state -> login?oauth=error), Apple reste stub
