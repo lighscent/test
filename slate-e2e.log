@@ -9,3 +9,4 @@ Slate iphone 2026-10-30 18:53:37 : maquettes iPhone CSS (hero + galerie 3 ecrans
 Slate legal 2026-10-30 18:55:05 : 4 pages 200 (mentions/cgu/cgv/confidentialite), footer links, zero emoji, champs identite a completer
 Slate png 2026-10-30 18:56:46 : icones PNG generees (192/512/180/maskable, signature+contenu verifies), manifest + apple-touch-icon branches, servies 200 image/png
 Slate 2026-10-30 19:24 : landing refaite Modern SaaS (hero sombre, bento, tarifs, FAQ), vraies captures app + photo equipe, login/register sombres avec capture reelle, favicon, isolation multi-comptes revalidee (B 404 sur tache A), PWA icons PNG
+Slate 2026-10-30 19:45 : palette beige/bleu marine (tokens input.css), header simplifie (Tarifs seul), lightbox images (dialog + Esc + clic fond), captures app regenerees, pages 200, mobile sans overflow
