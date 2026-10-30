@@ -5,3 +5,4 @@ Slate e2e 2026-10-30 18:26:49 : isolation PASS (B ne voit pas todo A, toggle/del
 Slate verify 2026-10-30 18:27:56 : 10/10 PASS (no emoji, FA 200, no-JS 302 fallback, stubs FR, PWA assets)
 Slate oauth 2026-10-30 18:32:04 : Google/Microsoft OAuth2+PKCE verifies (501 sans env, 302 authorize PKCE, callback bad-state -> login?oauth=error), Apple reste stub
 Slate landing 2026-10-30 18:52:16 : page entreprise verifiee 200 (nav, hero+mockup, fonctionnalites, sync, securite, tarifs, faq, footer), zero emoji
+Slate iphone 2026-10-30 18:53:37 : maquettes iPhone CSS (hero + galerie 3 ecrans) verifiees 200, zero emoji
