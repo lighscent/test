@@ -1,3 +1,4 @@
 ﻿Slate e2e 2026-10-30 18:13:26 : 16/16 PASS (health, welcome, register, login, todos+dueDate, calendar, PWA, oauth stubs 501, no emoji)
 Slate e2e 2026-10-30 18:15:53 : 16/16 PASS (guest redirects, auth, calendar month nav, PWA, stubs 501/401, logout)
 Slate e2e 2026-10-30 18:19:14 : 18/18 PASS via subagent (landing FR, oauth disabled, auth, calendar, PWA, logout)
+Slate e2e 2026-10-30 18:26:49 : isolation PASS (B ne voit pas todo A, toggle/delete cross-user 404 sur vrai id)
